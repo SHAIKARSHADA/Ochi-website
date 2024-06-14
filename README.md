@@ -15,14 +15,14 @@ The Ochi Website Clone was developed to practice building responsive and animate
 
 ## Links
 
-- **GitHub Repository**: [Ochi Website Clone](https://github.com/yourusername/ochi-website-clone)
+- **GitHub Repository**: [Ochi Website Clone](https://github.com/yourusername/Ochi-website)
 - **Live Website**: [Ochi Website Clone](https://ochi-website-ashy.vercel.app/)
 
 ## How to Use
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ochi-website-clone.git
+    git clone https://github.com/yourusername/Ochi-website.git
     ```
 2. Navigate to the project directory.
 3. Install dependencies:
