@@ -15,7 +15,7 @@ The Ochi Website Clone was developed to practice building responsive and animate
 
 ## Links
 
-- **GitHub Repository**: [Ochi Website Clone](https://SHAIKARSHADA/Ochi-website/)
+- **GitHub Repository**: [Ochi Website Clone](https://github.com/SHAIKARSHADA/Ochi-website/)
 - **Live Website**: [Ochi Website Clone](https://ochi-website-ashy.vercel.app/)
 
 ## How to Use
